@@ -8,7 +8,7 @@
 }
 
 .title {
-    font-size: var(--display);
+    font-size: calc(var(--display) * 0.7);
     font-weight: 900;
     letter-spacing: 0.05em;
 }
